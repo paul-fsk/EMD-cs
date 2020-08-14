@@ -162,8 +162,6 @@ namespace EMDcs
         [STAThread]
         static void Main()
         {
-            //TestSpline();
-
             DataVisuForm form = new DataVisuForm();
 
             List<Chart> chs = new List<Chart>();
